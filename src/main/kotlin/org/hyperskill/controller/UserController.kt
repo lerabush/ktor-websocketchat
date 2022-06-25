@@ -1,4 +1,4 @@
 package org.hyperskill.controller
 
-class UserController {
+class UserController() {
 }
